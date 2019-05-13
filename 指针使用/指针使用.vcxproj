@@ -115,8 +115,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="flow_led.cpp" />
     <ClCompile Include="zhi_zhen.cpp" />
     <ClCompile Include="zhi_zhen1.cpp" />
+    <ClCompile Include="zi_zhen_and_han_shu.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

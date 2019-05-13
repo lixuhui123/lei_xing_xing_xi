@@ -21,5 +21,11 @@
     <ClCompile Include="zhi_zhen1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="flow_led.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zi_zhen_and_han_shu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
