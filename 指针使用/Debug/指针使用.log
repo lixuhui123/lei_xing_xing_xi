@@ -1,3 +1,2 @@
-﻿  test.cpp
-f:\bite learn\指针使用\指针使用\test.cpp(23): warning C4018: “<=”: 有符号/无符号不匹配
-  指针使用.vcxproj -> F:\bite learn\指针使用\Debug\指针使用.exe
+﻿  PanDuanZuoXuan.c
+LINK : fatal error LNK1561: 必须定义入口点

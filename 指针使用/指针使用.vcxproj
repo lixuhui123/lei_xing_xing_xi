@@ -117,9 +117,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="flow_led.cpp" />
+    <ClCompile Include="PanDuanZuoXuan.c" />
+    <ClCompile Include="panduanzuoxuan1.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="zhi_zhen.cpp" />
     <ClCompile Include="zhi_zhen1.cpp" />
+    <ClCompile Include="zhi_zhen_zuo_xuan.cpp" />
     <ClCompile Include="zi_zhen_and_han_shu.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
