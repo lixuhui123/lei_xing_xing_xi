@@ -5,7 +5,7 @@
 //{
 //	char str[] = "asdfgh";
 //	char zuoxuan[] = "";
-//	int a=strlen(str);
+//	int a=strlen(str);//6
 //	int b = 3;//指定要左旋第几个字符
 //	int c = 0;
 //	for (int i = b - 1; i <= a; ++i)
